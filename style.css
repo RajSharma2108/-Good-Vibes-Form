@@ -1,0 +1,70 @@
+body
+{
+    background-color: #a9d7e9;
+    text-align: left;
+}
+
+
+.heading
+{
+    margin-left: 650px;
+    margin-bottom: 40px;
+
+}
+
+
+.container
+{
+    width: 1000px;
+    background-color: #f3f3f3;
+    border: 1px solid black;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    align-items: center;
+}
+
+.text{
+    width: 300px;
+    height: 25px;
+    border: 1px solid rgb(187, 186, 186);
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+#form-heading
+{
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+#btn
+{
+    width: 80px;
+    height: 35px;
+    font-family: 'Noto Serif Display', serif;
+    font-size: 18px;
+    border-radius: 5px;
+    border: 1px solid lightblue;
+    background-color: #6ba2ce;
+    margin-left: 250px;
+    margin-bottom: 20px;
+}
+
+.form-text
+{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 10px;
+    font-size: 20px;
+    
+}
+#brief-data
+{
+    /* margin-top: 20px; */
+    margin-bottom: 20px;
+    border-radius: 5px;
+    border: 1px solid grey;
+}
+
